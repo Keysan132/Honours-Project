@@ -1,5 +1,5 @@
 streamlit==1.36.0
 streamlit-autorefresh==1.0.1
-pandas
+pandas==2.3.3
 numpy
 pytest==8.3.2
